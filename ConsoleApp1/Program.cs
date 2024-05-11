@@ -80,4 +80,4 @@ for (int i = 0; i < names.Length; i++)
     Console.Write(names[i] + ", ");
 }
 
-Console.ReadLine(); 
+Console.ReadLine(); Console.ReadLine(); 
