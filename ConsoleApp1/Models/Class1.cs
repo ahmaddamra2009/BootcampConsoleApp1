@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1.Models
 {
-    internal class Class1
+    public class Class1
     {
+        public int MyProperty { get; set; }
     }
 }
